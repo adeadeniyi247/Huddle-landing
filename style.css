@@ -1,0 +1,45 @@
+body{
+  background-color: #380e7f;
+  background-image: url("images/bg-desktop.svg");
+  color: #f8f8f8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding: 15px 40px 15px 40px;
+}
+.logoImg {
+  margin-bottom: 50px;
+}
+.mockupImg{
+  width: 50%;
+}
+.intro{
+  width: 40%;
+  height: 300px;
+  float: right;
+  margin-right: 60px;
+  margin-top: 30px;
+}
+.introH1{
+  font-weight: bold;
+}
+button{
+  width: 180px;
+  height: 45px;
+  border-radius: 20px;
+  color: #380e7f;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  border-style: none;
+  border: 1px solid #ffff;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.5);
+}
+button:hover{
+  background-color: #380e7f;
+  color: #ffff;
+  border: 1px #ffff solid;
+}
+footer{
+  float: right;
+  color: white;
+  clear: both;
+}
